@@ -1,0 +1,12 @@
+#red_lines {
+    height: 5px;
+    border-width: 0;
+    background-color: red;
+}
+
+p {
+    font-size: 50px;
+    margin-top: -22px;
+    margin-left: 10px;
+    margin-bottom: -22px;
+}
