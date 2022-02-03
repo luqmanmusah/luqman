@@ -10,3 +10,8 @@ p {
     margin-left: 10px;
     margin-bottom: -22px;
 }
+
+#about_p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
